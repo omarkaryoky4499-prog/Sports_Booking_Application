@@ -1,0 +1,82 @@
+[
+  {
+    "id": "rev-1",
+    "fieldId": "field-cairo",
+    "authorName": "Youssef Adel",
+    "rating": 5,
+    "comment": "The pitch was in excellent condition and the floodlights made our night match feel like a league game. Booking was straightforward.",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "rev-2",
+    "fieldId": "field-cairo",
+    "authorName": "Lina Farouk",
+    "rating": 5,
+    "comment": "Changing rooms were clean and the staff helped us start on time. The best football field we have used in Nasr City.",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "rev-3",
+    "fieldId": "field-cairo",
+    "authorName": "Karim Nabil",
+    "rating": 4,
+    "comment": "Great surface and easy parking, though the cafe was busy after 8. We will take the 6pm slot next time.",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "rev-4",
+    "fieldId": "field-elite",
+    "authorName": "Mona Saeed",
+    "rating": 5,
+    "comment": "Indoor court, a proper scoreboard, and air conditioning that actually works. Perfect for our weekly basketball run.",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "rev-5",
+    "fieldId": "field-elite",
+    "authorName": "Hossam Tarek",
+    "rating": 4,
+    "comment": "Well maintained hardwood and simple parking in New Cairo. A slightly longer warm-up window between bookings would help.",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "rev-6",
+    "fieldId": "field-green",
+    "authorName": "Youssef Adel",
+    "rating": 5,
+    "comment": "The clay was freshly prepared and the lighting stays even after sunset. Rackets were ready when we arrived.",
+    "date": "2026-10-19"
+  },
+  {
+    "id": "rev-7",
+    "fieldId": "field-green",
+    "authorName": "Nour El-Din",
+    "rating": 4,
+    "comment": "Quiet location in Maadi and a fair hourly rate. Seating for friends could be a little more comfortable.",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "rev-8",
+    "fieldId": "field-green",
+    "authorName": "Salma Ibrahim",
+    "rating": 5,
+    "comment": "Booked a morning session and the court was ready exactly on time. The smoothest tennis booking I have had.",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "rev-9",
+    "fieldId": "field-sky",
+    "authorName": "Tarek Mansour",
+    "rating": 5,
+    "comment": "Premium padel courts with a useful pro shop. The turf plays fast and true, even in a long rally.",
+    "date": "2026-10-21"
+  },
+  {
+    "id": "rev-10",
+    "fieldId": "field-sky",
+    "authorName": "Dina Khaled",
+    "rating": 5,
+    "comment": "Sky Arena is worth the drive to Sheikh Zayed. The coaching desk helped us book a lesson after the match.",
+    "date": "2026-08-08"
+  }
+]

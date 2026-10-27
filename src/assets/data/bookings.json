@@ -1,0 +1,42 @@
+[
+  {
+    "id": "book-1",
+    "fieldId": "field-cairo",
+    "dayOffset": 2,
+    "startTime": "19:00",
+    "durationHours": 2,
+    "status": "upcoming"
+  },
+  {
+    "id": "book-2",
+    "fieldId": "field-green",
+    "dayOffset": 5,
+    "startTime": "17:00",
+    "durationHours": 1,
+    "status": "upcoming"
+  },
+  {
+    "id": "book-3",
+    "fieldId": "field-elite",
+    "dayOffset": -14,
+    "startTime": "20:00",
+    "durationHours": 1,
+    "status": "completed"
+  },
+  {
+    "id": "book-4",
+    "fieldId": "field-sky",
+    "dayOffset": -21,
+    "startTime": "18:00",
+    "durationHours": 2,
+    "status": "completed"
+  },
+  {
+    "id": "book-5",
+    "fieldId": "field-cairo",
+    "dayOffset": -30,
+    "startTime": "16:00",
+    "durationHours": 2,
+    "status": "completed"
+  }
+]
